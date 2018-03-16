@@ -52,7 +52,5 @@ class Student
   end
 
   def self.new_from_db(row)
-    new_student = Student.new()
-    binding.pry
   end
 end
