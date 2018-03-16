@@ -56,7 +56,7 @@ class Student
     new_student
   end
 
-  def self.find_by_name(name)
-
+  def self.find_by_name(student_name)
+    sql
   end
 end
